@@ -1,0 +1,9 @@
+{
+    "GREETING": "Hallo, {}! Ich bin der Toolkid Bot.",
+    "NOT_REGISTERED": "Benutzer nicht registriert.",
+    "SUCCESSFUL_BAN": "Benutzer {} erfolgreich gebannt.",
+    "BAN_REPORT_TITLE": "Stündlicher Server-Aktivitätsbericht",
+    "REPORT_FIELD_BANS": "Gesamte Banns",
+    "REPORT_FIELD_KICKS": "Gesamte Kicks",
+    "REPORT_FOOTER": "Bot Status: Online | Letztes Update: {}"
+}

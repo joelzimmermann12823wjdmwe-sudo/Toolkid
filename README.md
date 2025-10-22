@@ -1,2 +1,0 @@
-# Toolkid
-Toolkid DC Bot

@@ -1,0 +1,4 @@
+# Ignoriere vertrauliche Variablen und Caches
+.env
+__pycache__/
+venv/
